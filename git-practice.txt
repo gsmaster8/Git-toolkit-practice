@@ -3,3 +3,11 @@ This is a practice
 title: Git-toolkit-practice
 author: gsmaster8
 date: 2019/4/23 16:35
+
+----->Update in 18.11
+1. Add ssh public key into github
+2. Add remote in Git Gui
+3. Click "Stage Changed"
+4. Add Commit Messge
+5. Click "Commit"
+6. Click "Push"
